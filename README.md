@@ -1,9 +1,9 @@
 <!-- Pinterest circular badge -->
-<a href="https://www.pinterest.com/pin/281543724882435/" >
+
   <img src="https://www.pinterest.com/pin/281543724882435/" 
        alt="Pinterest pin" width="40" height="40" 
-       style="border-radius:50%; object-fit:cover; display:inline-block; vertical-align:middle;">
-</a>
+       style=" object-fit:cover; display:inline-block; vertical-align:middle;">
+
 
 <h1 align="center">Hi , I'm D.G.S.S.Dhananjana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
