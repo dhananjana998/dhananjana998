@@ -1,10 +1,16 @@
 <!-- Pinterest circular badge -->
+<p align="center">
+  <a href="https://www.pinterest.com/pin/281543724882435/" target="_blank" rel="noopener noreferrer">
+    <img src="https://t3.ftcdn.net/jpg/02/97/20/90/360_F_297209036_MNHVMIAzWTzIysYMcfZMnT2uaihTtjT6.jpg" 
+         alt="Pinterest badge" 
+         width="100" height="100" 
+         style="border-radius:50%; object-fit:cover;">
+  </a>
+</p>
 
-  <img src="[https://www.pinterest.com/pin/281543724882435/](https://www.google.com/imgres?q=hacker%20girl%20image&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F02%2F97%2F20%2F90%2F360_F_297209036_MNHVMIAzWTzIysYMcfZMnT2uaihTtjT6.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dfemale%2Bhacker&docid=iTN1Na2cRR0VhM&tbnid=hXT5pTpkRCIDlM&vet=12ahUKEwiSiqz5q9WPAxVgxTgGHWcsKSQQM3oECBYQAA..i&w=539&h=360&hcb=2&ved=2ahUKEwiSiqz5q9WPAxVgxTgGHWcsKSQQM3oECBYQAA)" >
-      
-
-
-<h1 align="center">Hi , I'm D.G.S.S.Dhananjana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm D.G.S.S.Dhananjana 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -18,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-- 🌱 I’m currently learning **Python, React, JavaScript**
+- 🌱 I’m currently learning **Python, React, JavaScript**  
 - 📫 How to reach me **sachinisewmini2002@gmail.com**
 
 <!--- stats & Trophy (start) -->
@@ -27,12 +33,12 @@
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dhananjana998&theme=dark&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjana998&theme=dark&show_icons=true&count_private=true" />
         <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjana998&theme=dark&hide_border=false" /> 
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjana998&theme=dark&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dhananjana998&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dhananjana998&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
       </td>
     </tr>
   </table>
