@@ -6,7 +6,7 @@
       <img
         src="https://t3.ftcdn.net/jpg/02/97/20/90/360_F_297209036_MNHVMIAzWTzIysYMcfZMnT2uaihTtjT6.jpg"
         alt="Pinterest badge"
-        style="width:100%; height:100%; object-fit:cover; display:block;"
+        style="width:40; height:40; object-fit:cover; display:block;"
       >
     </span>
   </a>
