@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm D.G.S.S.Dhananjana</h1>
 <h3 align="center">Student of Software Engineering</h3>
-<hr>
+---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhananjana998&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjana998" /> </p>
 
 - 🌱 I’m currently learning **Python,React,JavaScript**
