@@ -1,14 +1,18 @@
-<!-- Pinterest circular badge -->
+<!-- Pinterest circular badge (fixed border-radius) -->
 <p align="center">
   <a href="https://www.pinterest.com/pin/281543724882435/" target="_blank" rel="noopener noreferrer">
-    <img src="https://t3.ftcdn.net/jpg/02/97/20/90/360_F_297209036_MNHVMIAzWTzIysYMcfZMnT2uaihTtjT6.jpg" 
-         alt="Pinterest badge" 
-         width="100" height="100" 
-         style="border-radius:50%; object-fit:cover;">
+    <!-- wrapper ensures circular clipping on the image -->
+    <span style="display:inline-block; width:110px; height:110px; border-radius:50%; overflow:hidden; line-height:0;">
+      <img
+        src="https://t3.ftcdn.net/jpg/02/97/20/90/360_F_297209036_MNHVMIAzWTzIysYMcfZMnT2uaihTtjT6.jpg"
+        alt="Pinterest badge"
+        style="width:100%; height:100%; object-fit:cover; display:block;"
+      >
+    </span>
   </a>
 </p>
 
-<h1 align="center">Hi , I'm D.G.S.S.Dhananjana 
+<h1 align="center">Hi , I'm D.G.S.S.Dhananjana
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
