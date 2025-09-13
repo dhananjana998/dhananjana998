@@ -1,3 +1,10 @@
+<!-- Paste this into your README.md -->
+<a href="https://www.pinterest.com/pin/281543724882435/" target="_blank" rel="noopener noreferrer">
+  <img src="PASTE_IMAGE_URL_HERE" alt="Pinterest pin" width="40" height="40" style="border-radius:50%; object-fit:cover; display:inline-block; vertical-align:middle;">
+</a>
+
+
+
 <h1 align="center">Hi , I'm D.G.S.S.Dhananjana<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=D.G.S.S+Dhananjana..&hearts;++;Self-taught+Front-End+Developer,;Software+Engineering+Student,;;Active+Learner/Researcher,;Love+to+learn..<3"></a>
